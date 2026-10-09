@@ -7,7 +7,7 @@ Live site: <deployed link ivide>
 ## Files
 - custom.css : Additional CSS used on the site
 - elementor-home.json : Elementor home page export
-- screenshots/ : Desktop and mobile views
+- screenshots
 
 ## Setup
 1. Install WordPress, Elementor and Hello Elementor theme
